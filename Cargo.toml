@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-distribution-identity-manager"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS distribution-identity-manager component - distribution"
+
+[lib]
+name = "distribution_identity_manager"
+path = "src/lib.rs"
