@@ -3,7 +3,7 @@ name = "SigmaOS-distribution-identity-manager"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "distribution-identity-manager component"
+description = "Distribution Identity Manager"
 upstream = []
 
 [contract]
